@@ -4,8 +4,3 @@ const Theme = {
 }
 
 export default Theme
-
-export type Tema = {
-  corPrincipal: string
-  corSecundaria: string
-}
